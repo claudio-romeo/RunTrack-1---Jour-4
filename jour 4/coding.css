@@ -1,0 +1,14 @@
+.omi {
+  display: flex;
+  text-align: center;
+}
+
+#année1 {
+  padding: 5%;
+  border: solid 3px rgb(19, 167, 159);
+}
+
+#année2 {
+  padding: 5%;
+  border: solid 3px rgb(19, 167, 159);
+}
